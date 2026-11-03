@@ -1,8 +1,7 @@
 # Certificates
 
-A collection of certificates from AI training, academic projects, workshops, and internships.
+A collection of certificates from courses, workshops, academic projects, and internships.
 
-- [AMD AI Academy training certificates](amd-ai-academy-certificates/)
-- [Generative AI certificate](mayur-generative-ai-certificate.pdf)
-- [AI Data Engineer academic project certificate](mayur-ai-data-engineer-certificate.pdf)
+- [AMD AI Academy courses and AMD AI DevDay workshop](amd-ai-academy-certificates/)
+- [Course and academic-project certificates](course-certificates/)
 - [MINATL internship certificate](mayur-patil-minatl-internship-certificate.pdf)
